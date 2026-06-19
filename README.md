@@ -4,7 +4,9 @@ A modern productivity dashboard with AI Insight to help users manage tasks effic
 
 ## 🌐 Live Demo
 https://atalya1010.github.io/CodingCamp-15June26-AtalyaRoulinaSaragih/
+## 📸 Life Dashboard Preview
 
+<img src="assets/Life Dashboard Light.png" width="800">
 ## Features
 
 * To-Do List Management
